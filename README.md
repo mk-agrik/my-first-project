@@ -18,3 +18,15 @@ This project is created as part of my studies in AI and Information Systems.
 
 #  Author
 Olga Abakumova — IT Student
+# Technologies
+- C++
+- Git
+- GitHub
+
+# How to run
+
+Compile:
+g++ main.cpp -o main
+
+Run:
+./main
